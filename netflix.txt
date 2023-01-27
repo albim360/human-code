@@ -1,0 +1,64 @@
+Scegliere cosa guardare su Netflix
+
+Mi trovo in salotto,
+
+Voglio guardare un film, 
+
+Cerco il telecomando,
+
+SE lo trovo
+	- Lo prendo e accendo il televisore
+	
+	- Mi siedo sul divano
+
+ALTRIMENTI
+	- Cambio dispositivo
+	- Accendo il dispositivo
+	- Mi metto a letto
+
+- Apro l’applicazione di Netflix
+
+- Sono sulla Home Page
+
+SE ho tempo
+	- Cerco nella sezione film
+
+ALTRIMENTI
+	- Cerco nella sezione serie tv
+
+SE vedo subito qualcosa che mi ispira
+	- Apro l’anteprima
+	
+	SE l’anteprima mi convince
+		- Clicco play
+
+		SE è disponibile una lingua che conosco
+			- Guardo il contenuto senza sottotitoli
+
+		ALTRIMENTI
+			- Attivo i sottotitoli
+			- Guardo il contenuto
+
+	ALTRIMENTI 
+		- Torno indietro
+
+ALTRIMENTI
+	- Scrollo FINCHÉ non trovo un titolo che mi è stato consigliato
+
+	- Apro l’anteprima
+	
+	SE l’anteprima mi convince
+		- Clicco play
+		
+		SE è disponibile una lingua che conosco
+			- Guardo il contenuto senza sottotitoli
+
+		ALTRIMENTI
+			- Attivo i sottotitoli
+			- Guardo il contenuto
+
+	ALTRIMENTI 
+		- Torno indietro
+
+SE l’azione si ripete per più di un’ora
+	- Spengo e vado a dormire
